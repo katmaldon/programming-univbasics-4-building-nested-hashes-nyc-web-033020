@@ -1,7 +1,6 @@
 def base_hash
   hash = { 
     railroads: {
-      pieces: 4
     }
     
   }
