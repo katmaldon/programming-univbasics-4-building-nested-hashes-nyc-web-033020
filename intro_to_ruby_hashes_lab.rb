@@ -1,7 +1,5 @@
 def base_hash
-  hash = { 
-    railroads: {
-    }
+  monopoly = { railroads: { pieces: 4, names: {}, rent_in_dollars: {} } }
     
   }
 end
